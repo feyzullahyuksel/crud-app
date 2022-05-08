@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://safdarjamal.github.io/crud-app/">
+  <a href="https://github.com/feyzullahyuksel/crud-app">
     CRUD App
   </a>
 </h1>
@@ -33,20 +33,20 @@
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/SafdarJamal/crud-app.git
+git clone https://github.com/feyzullahyuksel/crud-app
 cd crud-app
 ```
 
 Install dependencies:
 
 ```
-npm install
+yarn install
 ```
 
 Now, you can start a local web server by running:
 
 ```
-npm start
+yarn start
 ```
 
 and then you can open http://localhost:3000 to view it in the browser.
