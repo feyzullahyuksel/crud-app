@@ -1115,6 +1115,10 @@ caption {
   background-color: #f8f8f8;
 }
 
+.striped-table-blue tbody tr:nth-child(odd) {
+  background-color: #9ebfda;
+}
+
 .contain-table {
   overflow-x: auto;
 }
