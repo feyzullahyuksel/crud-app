@@ -13,7 +13,7 @@ const Table = ({ employees, handleEdit, handleDelete }) => {
 
   return (
     <div className="contain-table">
-      <table className="striped-table">
+      <table className="striped-table-new">
         <thead>
           <tr>
             <th>No.</th>
